@@ -1,0 +1,19 @@
+
+		Config Batch Executor Plan
+
+Description: Using COMSOL API with Java, create and run a 
+set of simulations which are defined by the configuration creator.
+		
+	
+Execution:
+
+	Load existing model
+			V
+	Set electrode configuration
+			V
+	Configure output settings (resolution/output destination)
+			V
+	Save output to CSV to be used
+	
+	
+
